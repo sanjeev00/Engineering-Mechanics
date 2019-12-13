@@ -1,0 +1,11 @@
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Release\AeroWizard.dll
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\bin\Release\AeroWizard.xml
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Form1.resources
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\Debugger\Downloads\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
